@@ -1,5 +1,5 @@
 Current issues: --extensions doesn't capture the full list of arguments passed to it
-
+```
 Usage: ./process_unique_exifs_xargs_call.sh [--remove-source] [--dry-run] --output-dir OUTPUT_DIR --extensions EXT1 [EXT2 ...]
 Options:
   --remove-source      Remove source files after copying (default: false)
@@ -8,3 +8,4 @@ Options:
   --output-dir         Specify the output directory (required)
   --extensions         Specify photo extensions to process (e.g., jpg, dng, cr2)
   --help               Show this help message
+```
